@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExemploNetflix" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#EE0008</item>
+        <item name="colorPrimaryDark">#CC030A</item>
+        <item name="android:windowBackground">#FF393939</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorAccent">#CC030A</item>
+    </style>
+
+    <style name="Theme.ExemploNetflix" parent="Base.Theme.ExemploNetflix" />
+</resources>
